@@ -1,6 +1,6 @@
 Name:		texlive-rojud
 Version:	56895
-Release:	1
+Release:	2
 Summary:	A font with the images of the counties of Romania
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rojud
