@@ -3,7 +3,7 @@ Version:	56895
 Release:	2
 Summary:	A font with the images of the counties of Romania
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rojud
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rojud
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rojud.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rojud.doc.r%{version}.tar.xz
